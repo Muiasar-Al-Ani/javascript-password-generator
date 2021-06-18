@@ -16,6 +16,13 @@ This my take on a javaScript password generator that I created using only HTML, 
 * [Notepad ++:]( https://notepad-plus-plus.org/downloads/ )  this a very light weight code editor that packs a big punch.
 
 
-### Here is a screen shot of my deployed personal portfolio!
+### Here is a screen shot of my deployed JavaScript password generator!
 
-![ScreenShot](https://github.com/Muiasar-Al-Ani/personal-portfolio/blob/main/screen-shots/Muiasar-Al-Ani.png )
+![ScreenShot](https://github.com/Muiasar-Al-Ani/javascript-password-generator/blob/main/screenshot/password-generat.png )
+
+
+### A demo of the running javaScript password generator!
+
+[The Demo Video]( https://drive.google.com/file/d/13tDiODIJXUb3nAHt8nLW6BoP6snzG-a5/view?usp=sharing )
+
+
