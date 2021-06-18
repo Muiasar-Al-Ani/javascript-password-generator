@@ -21,8 +21,8 @@ This my take on a javaScript password generator that I created using only HTML, 
 ![ScreenShot](https://github.com/Muiasar-Al-Ani/javascript-password-generator/blob/main/screenshot/password-generat.png )
 
 
-### A demo of the running javaScript password generator!
+### Video of the running javaScript password generator!
 
-[The Demo Video]( https://drive.google.com/file/d/13tDiODIJXUb3nAHt8nLW6BoP6snzG-a5/view?usp=sharing )
+![The Demo Video]( https://drive.google.com/file/d/13tDiODIJXUb3nAHt8nLW6BoP6snzG-a5/view?usp=sharing )
 
 
