@@ -22,7 +22,7 @@ function writePassword() {
     let includeSymbols;
 
     // Prompt for the length of the password
-    const length = parseInt(
+    let length = parseInt(
       prompt(
         "Please enter the length of the password needed? between 8 and 128 charachters!"
       )
